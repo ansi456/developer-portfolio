@@ -19,13 +19,10 @@ section{
     width: 50%;
     padding-left: 1%;
 }
-.half-width img
-{
-    width:10%;
-}
+
 .link-button{
     text-decoration:none;background-color: orange;
-    padding: 10px 40px;
+    padding: 10px 30px;
 }
 
 .top-banner{
@@ -33,4 +30,15 @@ section{
 background: url(images/top-banner.png);
 background-repeat: no-repeat;
 
+}
+.full{
+    display: flex;
+
+}
+.part-two{
+    display: flex;
+    width: 50%;
+}
+.logo-two {
+background: url(imges/dream-bg.png);
 }
